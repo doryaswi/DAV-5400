@@ -1,8 +1,5 @@
 ,Name,GACC,State,"Start 
-Date","Contain 
-or 
-Control 
-Date",Size,Cause,Costs
+Date",Contain or Control Date,Size,Cause,Costs
 0,Mooseheart,AK,AK,6/7/2018,7/5/2018,"53,643",L,"10,000"
 1,Taylor Creek,NW,OR,7/15/2018,10/11/2018,"52,839",L,"24,077,000"
 2,Perry,GB,NV,7/27/2018,8/6/2018,"51,400",U,"4,950,000"
